@@ -11,4 +11,5 @@ jobs:
   assign-author:
     runs-on: ubuntu-latest
     steps:
-      - uses: samaronybarros/auto-assign@0.0.11
+      # - uses: samaronybarros/auto-assign@0.0.11
+      - uses: flexcavo/auto-assign@v2023.01.25-001
